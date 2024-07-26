@@ -1,0 +1,50 @@
+/* .adbg-container {
+   border-top-right-radius: 30px;
+   border-bottom-right-radius: 30px;
+   border: 10px solid #FFD1DC;
+   background-color: white;
+   width: 1350px;
+ 
+   margin-top: -1290px; 
+   margin-left: 333px;
+   z-index: -1;
+   overflow: auto;
+ }
+ .admain-bg-container {
+   display: flex;
+   flex-direction: column;
+   height: 100%;
+ }
+
+ .recharts-legend-item-text{
+   font-family: 'Pretendard-bold';
+   color: gray;
+ }
+
+ .recharts-legend-icon{
+   display: none;
+ } */
+
+
+ .adbg-container{
+  border-top-right-radius: 30px ;
+  border-bottom-right-radius: 30px ;
+  border: 10px solid #FFD1DC;
+  background-color: white;
+  width: 1350px;
+  min-height: 1050px;
+  height: auto;
+  position: absolute;
+  top: 290px;
+  left: 330px;
+  z-index: -1;
+ }
+ 
+ .recharts-legend-item-text{
+  font-family: 'Pretendard-bold';
+  color: gray;
+}
+
+.recharts-legend-icon{
+  display: none;
+} 

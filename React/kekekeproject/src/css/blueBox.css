@@ -1,0 +1,15 @@
+/* blueBox.css */
+.container {
+  display: flex;
+  justify-content: center; /* 수평 중앙 정렬 */
+  align-items: center; /* 수직 중앙 정렬 */
+  z-index: -999;
+  margin-bottom: 200px;
+ 
+}
+
+.bluebg {
+ 
+  max-width: 1493px; /* 최대 폭 설정 */
+  max-height: 5000px; /* 최대 높이 설정 */
+}

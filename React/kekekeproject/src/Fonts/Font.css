@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'Pretendard-Black';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Pretendard-Black.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Pretendard-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Pretendard-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Pretendard-ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Pretendard-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Pretendard-ExtraLight';
+    font-style: normal;
+    font-weight:normal;
+    src: url('./Pretendard-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Pretendard-Light';
+    font-style: normal;
+    font-weight:normal;
+    src: url('./Pretendard-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Pretendard-Medium';
+    font-style: normal;
+    font-weight:normal;
+    src: url('./Pretendard-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('../Fonts/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Pretendard-SemiBold';
+    font-style: normal;
+    font-weight:normal;
+    src: url('./Pretendard-SemiBold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Pretendard-Thin';
+    font-style: normal;
+    font-weight:normal;
+    src: url('./Pretendard-Thin.woff') format('woff');
+}
+
+.box {
+    height: 103px;
+    width: 410px;
+  }
+  
+  .box .div-wrapper {
+    background-color: #ffa0b7;
+    border-radius: 30px;
+    height: 103px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 410px;
+  }
+  
+  .box .div {
+    align-items: center;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 159px;
+    padding: 20px;
+    position: relative;
+    top: 12px;
+  }
+  
+  .box .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }

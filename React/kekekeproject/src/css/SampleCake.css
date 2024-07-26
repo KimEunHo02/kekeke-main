@@ -1,0 +1,72 @@
+
+
+.Sam_index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Sam_samplecontainer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4개의 열 */
+  grid-gap: 80px; /* 그리드 항목 간의 간격 */
+  max-width: 100%;
+  margin-top: 80px;
+  
+}
+
+
+.Sam_cake-item {
+  flex: 0 0 25%; /* 가로로 4개 */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 180px; /* 각 항목의 최대 너비 */
+}
+
+.Sam_img {
+  width: 200px;
+  height: 200px; 
+  object-fit: cover;
+  border-radius: 10%;
+  margin: 10px;
+}
+
+.Sam_cake-name{
+  margin: 12px;
+  font-size: 24px;
+  font-family: 'Pretendard-bold';
+}
+
+.Sam_cake-price{
+  font-size: 18px;
+  font-family: 'Pretendard-bold';
+  color: #FF8D8D
+}
+
+.Samplepagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.prev-page, .next-page {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.page-numbers a {
+  color: #61a4d5;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+.page-numbers a:hover {
+  text-decoration: underline;
+}
+

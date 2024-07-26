@@ -1,0 +1,691 @@
+
+.co-bg-container {
+  background-image: url('/public/assets/images/bluebox.png');
+  background-size: 100% 100%;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin: 305px auto 0; 
+  margin-bottom: 200px;
+  
+  height: 1766px;
+  width: 1293px;
+  z-index: 0
+}
+
+
+
+
+.co-container {
+ 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+  margin-top: -2300px;
+}
+
+.co-container .co-div {
+
+
+  position: relative;
+  width: 1439px;
+}
+
+.co-container .co-cakeflavortitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1141px;
+}
+
+.co-cakeflovor{
+
+  font-family: 'Pretendard-Regular';
+  font-size: 20px;
+border-radius: 30px;
+border: 1px solid white;
+padding: 20px;
+width: 440px;
+  left: -5px;
+  
+  position: absolute;
+  top: 60px;
+}
+
+
+
+.co-container .co-btntxt {
+  color: #000000;
+  font-family: 'Pretendard-Regular';
+  font-size: 24px;
+  font-weight: 400;
+  left: 800px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1730px;
+}
+
+.co-container .co-reqbtn {
+  height: 103px;
+  left: 790px;
+  position: absolute;
+  top: 1800px;
+  width: 460px;
+}
+
+.co-container .co-overlap-group {
+  cursor: pointer;
+  background-color: #ffa0b7;
+  border-radius: 30px;
+  height: 103px;
+  position: relative;
+  width: 458px;
+}
+
+.co-reqbtn :hover{
+  background-color: #ff85a3;
+}
+
+.co-container .co-reqtxt {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: 'Pretendard-bold';
+  font-size: 32px;
+  font-weight: 700;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+}
+
+.co-container .co-cakeplusttitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1454px;
+}
+
+.co-container .co-cakeplus {
+  border: none;
+  background-color: #ffffff;
+  border-radius: 30px;
+  outline: none;
+  left: 772px;
+  position: absolute;
+  top: 1514px;
+  width: 438px;
+  background-color: #ffffff;
+  font-family: 'Pretendard-Regular';
+  padding-left: 20px;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 140px;
+ 
+}
+
+
+
+.co-container .co-caketxttitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1301px;
+}
+
+.co-container .co-caketxt {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 63px;
+  left: 772px;
+  position: absolute;
+  top: 1361px;
+ 
+
+    
+  width: 438px;
+  background-color: #ffffff;
+  font-family: 'Pretendard-Regular';
+ padding-left: 20px;
+  left: 772px;
+  font-size: 20px;
+}
+
+.co-container .co-cakesizetitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 866px;
+}
+
+.co-container .rectangle {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 178px;
+  left: 772px;
+  position: absolute;
+  top: 926px;
+  width: 458px;
+}
+
+.co-container .co-userphonetitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 709px;
+
+
+  
+}
+
+.co-container .co-userphone {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 63px;
+  left: 772px;
+  position: absolute;
+  top: 769px;
+
+  width: 438px;
+  background-color: #ffffff;
+  font-family: 'Pretendard-Regular';
+ padding-left: 20px;
+  left: 772px;
+  font-size: 20px;
+}
+
+.co-container .co-time {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1748px;
+}
+
+.co-container .co-timetitle {
+  font-family: 'Pretendard-bold';
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 63px;
+  left: 177px;
+  position: absolute;
+  top: 1808px;
+  width: 428px;
+}
+
+.co-container .co-daytitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1584px;
+}
+
+.co-day-icon{
+  position: absolute;
+  width: 30px;
+  left: 20px;
+}
+
+.co-time-icon{
+  position: absolute;
+  width: 30px;
+  left: 20px;
+}
+input {
+  border: none; /* 테두리 제거 */
+  outline: none; /* 포커스 시 나타나는 윤곽선(outline) 제거 */
+}
+
+.example-custom-input {
+  outline: none;
+  border: none; 
+  /* .co-day 클래스의 스타일을 이곳에 추가 */
+  background-color: #ffffff;
+  border-radius: 30px;
+  font-family: 'Pretendard-bold';
+  font-size: 16px;
+  height: 63px;
+  left: 177px;
+  position: absolute;
+  top: 1614px;
+  width: 488px;
+}
+
+.example-time-input {
+  outline: none;
+  border: none; 
+  /* .co-day 클래스의 스타일을 이곳에 추가 */
+  background-color: #ffffff;
+  border-radius: 30px;
+  font-family: 'Pretendard-bold';
+  font-size: 16px;
+  height: 63px;
+  left: 177px;
+  position: absolute;
+  top: 1794px;
+  width: 488px;
+  z-index: 999;
+}
+.co-container .co-omgtitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1037px;
+}
+
+.co-container .co-imgpic {
+  background-color: #ffffff;
+  border-radius: 44px;
+  height: 220px;
+  left: 177px;
+  position: absolute;
+  top: 1127px;
+  width: 489px;
+  cursor: pointer;
+}
+.react-datepicker-popper{
+  display: none;
+}
+
+.cakeImage{
+  font-family: 'Pretendard-Medium';
+  color: lightgray;
+  position: absolute;
+  top: 100px;
+  cursor: pointer;
+  padding: 20p;
+  left: 184px;
+}
+
+
+.co-selected-image{
+  border-radius: 44px;
+  width: 489px;
+  height: 220px;
+}
+
+.co-container .co-costomtitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 551px;
+}
+.co-choad{
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  position: absolute;
+  top: 1399px;
+  
+  left: 177px;
+  
+}
+
+.cco-location{
+  border-radius: 20px;
+  position: absolute; /* 절대적 위치 지정 */
+  top: 1430px; /* 버튼의 바로 아래 */
+  left: 340px;
+  color: lightgray;
+  font-family: "Pretendard-Regular";
+  text-align: center;
+  
+  z-index: 9999; /* 다른 요소들 위에 표시 */
+  /* 필요한 경우 추가 스타일링 */
+
+}
+.cco-location :hover{
+ background-color: #ff85a3;
+ color: white;
+ 
+
+}
+.cco-location.active{
+  background-color: #ff85a3;
+  color: white;
+  
+ 
+ }
+.cco-select-location-2{
+ 
+  height: 53px;
+  border: 2px solid rgb(233, 233, 233);
+  position: relative;
+
+  top: 100px;
+  width: 138px;
+  background-color: white;
+  cursor: pointer;
+  padding: 0px;
+  border-bottom: 1px solid lightgray;
+}
+.cco-select-gj{
+ 
+  font-size: 18px;
+  
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  left: 27px;
+  padding: 5px;
+}
+
+.cco-select-gu {
+ 
+  left: 50px;
+ 
+  font-size: 18px;
+  font-weight: 400;
+
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  padding: 5px;
+}
+.cco-select-gu-gu {
+
+  left: 45px;
+
+  font-size: 18px;
+  font-weight: 400;
+
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  padding: 5px;
+}
+
+.cc-input{
+  color: black;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 44px; 
+  position: absolute;
+  font-size: 18px;
+  top: 1471px;
+  left: 177px;
+  font-family: 'Pretendard-Regular';
+  padding-left: 20px;
+  width: 438px;
+  height: 63px;
+}
+
+.co-container .co-custompic {
+
+  border-radius: 44px;
+  height: 398px;
+  left: 177px;
+  position: absolute;
+  top: 711px;
+  width: 489px;
+  z-index: 99999;
+}
+.white-bg{
+  background-color: white;
+  border-radius: 44px;
+  height: 398px;
+  left: 177px;
+  position: absolute;
+  top: 611px;
+  width: 489px;
+}
+.co-container .co-usernametitle {
+  color: #000000;
+  font-family: 'Pretendard-bold';
+  font-size: 24px;
+  font-weight: 700;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 558px;
+}
+
+.co-container .co-username {
+
+  background-color: #ffffff;
+  font-family: 'Pretendard-Regular';
+  border-radius: 30px;
+ padding-left: 20px;
+  height: 63px;
+  left: 772px;
+  position: absolute;
+  top: 618px;
+  width: 438px;
+
+
+  
+ 
+  font-size: 20px;
+
+
+
+}
+
+/* 다음 버튼에 대한 스타일 */
+
+
+
+
+/* 체크박스 */
+
+.co-check-container{
+  position: absolute;
+  left: 170px;
+  top: 0px;
+  z-index: 999;
+}
+
+
+
+.co-check-1{
+  display: grid;
+  grid-template-columns: auto auto; /* 두 개의 열 생성 */
+  grid-gap: 16px; /* 열 사이의 간격 조절 */
+  align-items: center; /* 세로 정렬 방식 (가운데 정렬) */
+  gap: 10px;
+  font-size: 20px;
+  font-family:'Pretendard-Semibold';
+  left: 650px;
+  padding: 20px;
+  padding: 10px;
+  letter-spacing: 0;
+  white-space: nowrap;
+  line-height: normal;
+  position: absolute;
+  top: 959px;
+  width: 76px;
+
+}
+
+
+.co-check1-txt {
+  color: #000000;
+  font-family:'Pretendard-Semibold';
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+
+.co-check-txt1{
+  color: #000000;
+  font-family:'Pretendard-Semibold';
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+
+.co-check-2 {
+  font-size: 20px;
+  font-family:'Pretendard-Semibold';
+  white-space: nowrap;
+  display: grid;
+  grid-template-columns: auto auto; /* 두 개의 열 생성 */
+  grid-gap: 16px; /* 열 사이의 간격 조절 */
+  align-items: center; /* 세로 정렬 방식 (가운데 정렬) */
+  gap: 10px;
+  left: 650px;
+  padding: 10px;
+  position: absolute;
+  top: 1023px;
+  width: 51px;
+}
+.co-check-txt2 {
+  color: #000000;
+  font-family:'Pretendard-Semibold';
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 50px;
+}
+
+.co-check-3 {font-size: 20px;
+  font-family:'Pretendard-Semibold';
+  white-space: nowrap;
+  display: grid;
+  grid-template-columns: auto auto; /* 두 개의 열 생성 */
+  grid-gap: 16px; /* 열 사이의 간격 조절 */
+  align-items: center; /* 세로 정렬 방식 (가운데 정렬) */
+  gap: 10px;
+  left: 880px;
+  padding: 10px;
+  position: absolute;
+  top: 959px;
+  width: 51px;
+}
+
+
+.co-check-4 {
+  font-size: 20px;
+  font-family:'Pretendard-Semibold';
+  white-space: nowrap;
+  display: grid;
+  grid-template-columns: auto auto; /* 두 개의 열 생성 */
+  grid-gap: 16px; /* 열 사이의 간격 조절 */
+  align-items: center; /* 세로 정렬 방식 (가운데 정렬) */
+  gap: 10px;
+  left: 880px;
+  padding: 10px;
+  position: absolute;
+  top: 1023px;
+  width: 53px;
+}
+
+.co-check-txt3 {
+  color: #000000;
+  font-family:'Pretendard-Semibold';
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 33px;
+}
+
+.react-datepicker__header:not(.react-datepicker__header--has-time-select){
+ background-color: white;
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+}
+.react-datepicker__day, .react-datepicker__month-text, .react-datepicker__quarter-text, .react-datepicker__year-text{
+  color: white;
+}
+.react-datepicker__navigation-icon react-datepicker__navigation-icon--next{
+color: #ff85a3;
+}
+.react-datepicker__day:hover, .react-datepicker__month-text:hover, .react-datepicker__quarter-text:hover, .react-datepicker__year-text:hover{
+  background-color: #ef4b74;
+}
+.react-datepicker__current-month{
+  color: #ff85a3;
+}
+
+.react-datepicker__day-name{
+  color: #ff85a3;
+}
+
+.react-datepicker__navigation-icon--next::before{
+  border-color: #ffa0b7 ;
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  z-index: 999;
+}
+
+.react-datepicker__navigation-icon--previous::before{
+  border-color: #ffa0b7 ;
+  position: absolute;
+  top: -2px;
+  left: -2px;
+}
